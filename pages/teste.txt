@@ -1,0 +1,24 @@
+sair da pasta
+-> cd ..
+
+Criação de App Com Expo-cli
+
+-> npx create-expo-app navegacao
+
+entrar diretorio do projeto
+-> cd navegacao
+
+start no projeto
+->npx expo start
+
+->apertar a tecla w para abrir no navegador
+-> copiar o comando exibido da tela apertar CTRL + C para parar o terminal
+-> colar o comando copiado e teclar enter
+-> depois que concluir o processo usar o "npx expo start" novamente
+-> apertar W e testar no navegador
+
+->abrir o site: https://reactnavigation.org/ e clicar em docs
+-> executar os dois primeiros comandos do Getting started
+-> abrir a pagina hello react navigation perto do segundo comando e executar o comando dessa pagina
+
+
